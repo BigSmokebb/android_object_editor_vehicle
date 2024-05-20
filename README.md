@@ -21,3 +21,8 @@ descripción de las funciones y bloques del código:
 - Por favor si vas a usar este sistema agregar los respectivos creditos de su creador.
 
 El sistema no ha sido testeado en su totalidad con jugadores en android, por favor contactarme por discord "bigsmoke_bb" si ves un bug y poder arreglarlo.
+
+Nota:
+El editor de objetos para vehículos está diseñado para funcionar con cualquier vehículo que tenga objetos adjuntos. Esto significa que no importa si los objetos fueron añadidos por un jugador o si el vehículo con objetos es parte del servidor, el editor puede seleccionar y permitir la edición de todos los objetos que estén adjuntos al vehículo.
+
+Sin embargo, si tienes vehículos en el servidor que ya tienen objetos adjuntos, tendrás que gestionar esa parte por tu cuenta. Esto es para evitar que los jugadores editen los objetos que no deberían ser editables. En otras palabras, tendrás que implementar medidas adicionales para proteger los objetos de los vehículos del servidor de ser editados por los jugadores.
