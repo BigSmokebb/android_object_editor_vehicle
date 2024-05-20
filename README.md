@@ -1,6 +1,4 @@
 https://prnt.sc/1NuUkGFV3HAR
-
-<img width="540" alt="Screenshot_2" src="https://github.com/BigSmokebb/android_object_editor_vehicle/assets/104103838/377997ca-d8da-42ca-bcf9-ae6153e752f9">
 <img width="952" alt="Screenshot_3" src="https://github.com/BigSmokebb/android_object_editor_vehicle/assets/104103838/2c156e51-31ca-4e9d-9a03-c40be13ae70f">
 # android_object_editor_vehicle
 Editor de objetos para el vehiculo en android.
